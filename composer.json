@@ -11,8 +11,12 @@
     ],
     "authors": [
         {
-            "name": "Ryan Marshall | Shashwat Singh",
-            "email": "ryan@schmoove.co.nz | shashwatkalvpaig@gmail.com"
+            "name": "Ryan Marshall",
+            "email": "ryan@schmoove.co.nz"
+        },
+        {
+            "name": "Shashwat Singh",
+            "email": "shashwatkalvpaig@gmail.com"
         }
     ],
     "support": {
