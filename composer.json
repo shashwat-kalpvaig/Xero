@@ -1,5 +1,5 @@
 {
-    "name": "socialiteproviders/xero",
+    "name": "shashwatkalvpaig/xero",
     "description": "Xero OAuth2 Provider for Laravel Socialite",
     "license": "MIT",
     "keywords": [
@@ -11,13 +11,13 @@
     ],
     "authors": [
         {
-            "name": "Ryan Marshall",
-            "email": "ryan@schmoove.co.nz"
+            "name": "Ryan Marshall | Shashwat Singh",
+            "email": "ryan@schmoove.co.nz | shashwatkalvpaig@gmail.com"
         }
     ],
     "support": {
-        "issues": "https://github.com/socialiteproviders/providers/issues",
-        "source": "https://github.com/socialiteproviders/providers",
+        "issues": "https://github.com/shashwat-kalpvaig/Xero/issues",
+        "source": "https://github.com/shashwat-kalpvaig/Xero",
         "docs": "https://socialiteproviders.com/xero"
     },
     "require": {
